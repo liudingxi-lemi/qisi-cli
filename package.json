@@ -1,0 +1,23 @@
+{
+  "name": "qisi-cli",
+  "version": "0.0.1",
+  "description": "qisi cli ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liudingxi-lemi/qisi-cli.git"
+  },
+  "keywords": [
+    "qisi",
+    "cli"
+  ],
+  "author": "liudx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liudingxi-lemi/qisi-cli/issues"
+  },
+  "homepage": "https://github.com/liudingxi-lemi/qisi-cli#readme"
+}
