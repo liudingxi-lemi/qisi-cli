@@ -52,7 +52,7 @@ program
     .action(function(currentCmd) {
         const templateName = isInitTemplate(currentCmd) // verify init-{templateName}
         // eslint-disable-next-line
-				const option = arguments[2] || arguments[1] // if no arguments[2], second parameter is an option.
+		const option = arguments[2] || arguments[1] // if no arguments[2], second parameter is an option.
         // eslint-disable-next-line
         const projectName = typeof arguments[1] === 'string' ? arguments[1] : '' // if arguments[1] is not a string, no project name input.
         // init a template
